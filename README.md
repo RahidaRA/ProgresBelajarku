@@ -13,3 +13,9 @@ hari kedua belajar git aku mulai mempelajari
   - Perintah dasar pada git 
   - Workflow pada git
   - Repository pada git
+
+**09 Februari 2022**
+
+Day 3 belajar git kemarin aku mempelajari : 
+  - git branch 
+  - git merge 
