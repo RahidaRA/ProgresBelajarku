@@ -1,3 +1,1 @@
-Halo ini aku Rahida
-Ini perjalananku memulai belajar git melalui github bersama dicoding academy
-make different
+yes this is the difference
